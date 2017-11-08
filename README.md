@@ -14,9 +14,9 @@ are welcome!
 TODO:
 
 - [ ] prerequisites (install `stack`, run `stack setup`)
-- [ ] mention `stack` and `stack script`
+- [ ] mention `stack` and `stack script` and small-project scripts
 - [ ] tell about compiling script inside existing project `stack ghc ...`
-- [ ] mention `ghcid`
+- [ ] mention `ghcid` and `intero`
 - [ ] mention `OPTIONS_GHC -Wall -Werror`
 - [ ] simple Prelude-only stdin/stdout
 - [ ] reading inpfile, writing outfile
