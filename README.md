@@ -17,7 +17,8 @@ are welcome!
 TODO:
 
 - [ ] prerequisites (install `stack`, run `stack setup`)
-- [ ] simplest `stack script`
+- [ ] simplest `stack script`. mention this only works for `stackage`
+  packages
 - [ ] `stack ghci` into the script
 - [ ] simple Prelude-only stdin/stdout
 - [ ] reading inpfile, writing outfile
