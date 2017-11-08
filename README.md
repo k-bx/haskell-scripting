@@ -21,9 +21,9 @@ TODO:
 - [ ] reading inpfile, writing outfile
 - [ ] `optparse-applicative` with options and subcommands
 - [ ] additional recipes:
-      - [ ] `string-class` for the string madness
-      - [ ] reading/writing json
-      - [ ] reading/writing csv
-      - [ ] parsing dates in weird format
-      - [ ] making http api calls
+  - [ ] `string-class` for the string madness
+  - [ ] reading/writing json
+  - [ ] reading/writing csv
+  - [ ] parsing dates in weird format
+  - [ ] making http api calls
 - [ ] `turtle` and its caching abilities, parsing (via sed)
