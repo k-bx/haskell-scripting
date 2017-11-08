@@ -14,15 +14,17 @@ are welcome!
 TODO:
 
 - [ ] prerequisites (install `stack`, run `stack setup`)
-- [ ] mention `stack` and `stack script` and small-project scripts
+- [ ] simplest `stack script`
+- [ ] `stack ghci` into the script
+- [ ] simple Prelude-only stdin/stdout
+- [ ] reading inpfile, writing outfile
+- [ ] `optparse-applicative` with options and subcommands
+- [ ] "small project" scripts for multi-module scripting
 - [ ] tell about compiling script inside existing project `stack ghc ...`
 - [ ] mention `ghcid` and `intero`
 - [ ] mention `OPTIONS_GHC -Wall -Werror`
 - [ ] mention `--optimized` or whatever is a way to compile with `-O`
-- [ ] simple Prelude-only stdin/stdout
-- [ ] reading inpfile, writing outfile
-- [ ] `optparse-applicative` with options and subcommands
-- [ ] additional recipes:
+- [ ] library recipes:
   - [ ] `string-class` for the string madness
   - [ ] reading/writing json
   - [ ] reading/writing csv
