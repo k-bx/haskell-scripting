@@ -29,3 +29,5 @@ TODO:
   - [ ] making http api calls
   - [ ] cleaning up json via lens
 - [ ] `turtle` and its caching abilities, parsing (via sed)
+- [ ] check exception-safety, "broken pipe" behavior etc. Even when
+  writing a minimal script, we want to make it a correct one
