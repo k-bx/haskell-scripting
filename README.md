@@ -4,11 +4,12 @@ Haskell is becoming more and more easy in terms of a language in which
 you can write small programs that usually are launched from
 command-line and do some helpful work.
 
-This repository's goal is to become a one-stop shop serving
-simultaneously a cookbook on how to write scripts in Haskell, going
-from most simple and easy towards more complicated and framework-heavy
-patterns, capturing most common data formats and libraries used in
-scripting ("most common" metric was chosen arbitrary).
+This repository's goal is to become a one-stop shop serving as a
+cookbook on scripting in Haskell, going from most simple and easy
+towards more complicated and framework-heavy patterns, capturing most
+common data formats and libraries used in scripting ("most common"
+metric was chosen arbitrary). PRs and Issues proposing improvements
+are welcome!
 
 TODO:
 
