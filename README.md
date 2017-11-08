@@ -7,7 +7,9 @@ command-line and do some helpful work.
 This repository's goal is to become a one-stop shop serving
 simultaneously a tutorial and a cookbook on how to write scripts in
 Haskell, going from most simple and easy towards more complicated and
-framework-heavy patterns.
+framework-heavy patterns, capturing most common data formats and
+libraries used in scripting ("most common" metric was chosen
+arbitrary).
 
 TODO:
 
@@ -17,12 +19,12 @@ TODO:
 - [ ] mention `ghcid`
 - [ ] mention `OPTIONS_GHC -Wall -Werror`
 - [ ] simple Prelude-only stdin/stdout
-- [ ] `string-class` for the string madness
 - [ ] reading inpfile, writing outfile
+- [ ] `optparse-applicative` with options and subcommands
 - [ ] additional recipes:
+      - [ ] `string-class` for the string madness
       - [ ] reading/writing json
       - [ ] reading/writing csv
       - [ ] parsing dates in weird format
       - [ ] making http api calls
-- [ ] `optparse-applicative`
 - [ ] `turtle` and its caching abilities, parsing (via sed)
