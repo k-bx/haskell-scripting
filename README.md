@@ -23,7 +23,7 @@ TODO:
 - [ ] reading inpfile, writing outfile
 - [ ] `optparse-applicative` with options and subcommands
 - [ ] "small project" scripts for multi-module scripting. mention
-  hspec
+  hpack
 - [ ] tell about compiling script inside existing project `stack ghc
   ...` (`runghc`?), useful for reusing code to read config or other
 - [ ] mention `ghcid` and `intero`
