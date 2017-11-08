@@ -11,11 +11,18 @@ framework-heavy patterns.
 
 TODO:
 
-- [ ] prerequisites
+- [ ] prerequisites (install `stack`, run `stack setup`)
 - [ ] tell about compiling script inside existing project `stack ghc ...`
 - [ ] mention `stack` and `stack script`
 - [ ] mention `ghcid`
 - [ ] mention `OPTIONS_GHC -Wall -Werror`
-- [ ] simplest use-case Prelude-only
+- [ ] simple Prelude-only stdin/stdout
+- [ ] `string-class` for the string madness
+- [ ] reading inpfile, writing outfile
+- [ ] additional recipes:
+      - [ ] reading/writing json
+      - [ ] reading/writing csv
+      - [ ] parsing dates in weird format
+      - [ ] making http api calls
 - [ ] `optparse-applicative`
-- [ ] `turtle` and its caching abilities
+- [ ] `turtle` and its caching abilities, parsing (via sed)
