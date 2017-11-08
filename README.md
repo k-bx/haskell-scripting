@@ -12,8 +12,8 @@ framework-heavy patterns.
 TODO:
 
 - [ ] prerequisites (install `stack`, run `stack setup`)
-- [ ] tell about compiling script inside existing project `stack ghc ...`
 - [ ] mention `stack` and `stack script`
+- [ ] tell about compiling script inside existing project `stack ghc ...`
 - [ ] mention `ghcid`
 - [ ] mention `OPTIONS_GHC -Wall -Werror`
 - [ ] simple Prelude-only stdin/stdout
