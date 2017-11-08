@@ -33,6 +33,10 @@ TODO:
   - [ ] making http api calls
   - [ ] cleaning up json via lens
 - [ ] `turtle` and its caching abilities, parsing (via sed)
-- [ ] failing hard via `error`, showing stack traces
+- [ ] failing hard via `error` and pattern-matching `Just`, provide
+  nice stack traces
+- [ ] simple optimization recipe: `LANGUAGE: Strict`,
+  `-funpack-strict-fields`
+- [ ] same-field datatypes via `HasField` and `GHC.Records`
 - [ ] check exception-safety, "broken pipe" behavior etc. Even when
   writing a minimal script, we want to make it a correct one
