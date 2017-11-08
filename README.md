@@ -2,7 +2,10 @@
 
 Haskell is becoming more and more easy in terms of a language in which
 you can write small programs that usually are launched from
-command-line and do some helpful work.
+command-line and do some helpful work. Unlike regular programming
+techniques, scripting is focused on "getting things done" in a fastest
+possible way, so usage of techniques like erroring out early and using
+exceptions is not considered a bad style.
 
 This repository's goal is to become a one-stop shop serving as a
 cookbook on scripting in Haskell, going from most simple and easy
@@ -26,6 +29,7 @@ TODO:
 - [ ] mention `OPTIONS_GHC -Wall -Werror`
 - [ ] mention `--optimized` or whatever is a way to compile with `-O`
 - [ ] library recipes:
+  - [ ] `safe` library, its `fromJustNote` and others
   - [ ] `string-class` for the string madness
   - [ ] reading/writing json
   - [ ] reading/writing csv
