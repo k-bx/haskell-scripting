@@ -5,11 +5,10 @@ you can write small programs that usually are launched from
 command-line and do some helpful work.
 
 This repository's goal is to become a one-stop shop serving
-simultaneously a tutorial and a cookbook on how to write scripts in
-Haskell, going from most simple and easy towards more complicated and
-framework-heavy patterns, capturing most common data formats and
-libraries used in scripting ("most common" metric was chosen
-arbitrary).
+simultaneously a cookbook on how to write scripts in Haskell, going
+from most simple and easy towards more complicated and framework-heavy
+patterns, capturing most common data formats and libraries used in
+scripting ("most common" metric was chosen arbitrary).
 
 TODO:
 
