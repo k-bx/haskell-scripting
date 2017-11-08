@@ -26,4 +26,5 @@ TODO:
   - [ ] reading/writing csv
   - [ ] parsing dates in weird format
   - [ ] making http api calls
+  - [ ] cleaning up json via lens
 - [ ] `turtle` and its caching abilities, parsing (via sed)
