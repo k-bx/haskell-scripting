@@ -18,6 +18,7 @@ TODO:
 - [ ] tell about compiling script inside existing project `stack ghc ...`
 - [ ] mention `ghcid` and `intero`
 - [ ] mention `OPTIONS_GHC -Wall -Werror`
+- [ ] mention `--optimized` or whatever is a way to compile with `-O`
 - [ ] simple Prelude-only stdin/stdout
 - [ ] reading inpfile, writing outfile
 - [ ] `optparse-applicative` with options and subcommands
