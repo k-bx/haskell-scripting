@@ -46,3 +46,4 @@ TODO:
 - [ ] same-field datatypes via `HasField` and `GHC.Records`
 - [ ] check exception-safety, "broken pipe" behavior etc. Even when
   writing a minimal script, we want to make it a correct one
+- [ ] making a Debian package (and other executables/binaries) out of your script (see the [reddit thread](https://www.reddit.com/r/haskell/comments/7tgnwc/how_to_make_a_debian_package_out_of_a_haskell/))
