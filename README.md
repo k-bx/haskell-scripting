@@ -14,6 +14,15 @@ common data formats and libraries used in scripting ("most common"
 metric was chosen arbitrary). PRs and Issues proposing improvements
 are welcome!
 
+## Prerequisites
+
+- install the [stack](https://docs.haskellstack.org/en/stable/README/) tool
+- run `stack setup setup` to install GHC
+
+## Writing scripts
+
+- write [simplest stdin/stdout script](simple_stdin_stdout.md)
+
 TODO:
 
 - [ ] prerequisites (install `stack`, run `stack setup`)
@@ -38,6 +47,7 @@ TODO:
   - [ ] parsing dates in weird format
   - [ ] making http api calls
   - [ ] cleaning up json via lens
+- [ ] simplest `stack script` but with text?
 - [ ] `turtle` and its caching abilities, parsing (via sed)
 - [ ] failing hard via `error` and pattern-matching `Just`, provide
   nice stack traces
@@ -46,3 +56,6 @@ TODO:
 - [ ] same-field datatypes via `HasField` and `GHC.Records`
 - [ ] check exception-safety, "broken pipe" behavior etc. Even when
   writing a minimal script, we want to make it a correct one
+- [ ] alternative preludes?
+- [ ] `import Import` pattern?
+- [ ] link https://haskell-lang.org/tutorial/stack-script
