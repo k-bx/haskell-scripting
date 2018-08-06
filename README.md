@@ -58,4 +58,8 @@ TODO:
   writing a minimal script, we want to make it a correct one
 - [ ] alternative preludes?
 - [ ] `import Import` pattern?
+- [ ] making a Snap package from your script
+- [ ] making a Snap for a Systemd service (in case of a need to listen to something)
+- [ ] making a Debian package (and other executables/binaries) out of your script (see the [reddit thread](https://www.reddit.com/r/haskell/comments/7tgnwc/how_to_make_a_debian_package_out_of_a_haskell/))
+- [ ] automatically build and deploy via some CIs (Docker (including macOS), Travis, check out others)
 - [ ] link https://haskell-lang.org/tutorial/stack-script
