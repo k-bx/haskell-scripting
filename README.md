@@ -1,30 +1,8 @@
 # Scripting in Haskell
 
-Haskell is becoming more and more easy in terms of a language in which
-you can write small programs that usually are launched from
-command-line and do some helpful work. Unlike regular programming
-techniques, scripting is focused on "getting things done" in a fastest
-possible way, so usage of techniques like erroring out early and using
-exceptions is not considered a bad style.
-
-This repository's goal is to become a one-stop shop serving as a
-cookbook on scripting in Haskell, going from most simple and easy
-towards more complicated and framework-heavy patterns, capturing most
-common data formats and libraries used in scripting ("most common"
-metric was chosen arbitrary). PRs and Issues proposing improvements
-are welcome!
-
-## Prerequisites
-
-- install the [stack](https://docs.haskellstack.org/en/stable/README/) tool
-- run `stack setup setup` to install GHC
-
-## Writing scripts
-
-- write [simplest stdin/stdout script](simple_stdin_stdout.md)
-
 TODO:
 
+- [ ] link readthedocs
 - [x] prerequisites (install `stack`, run `stack setup`)
 - [ ] simplest `stack script`. mention this only works for `stackage`
   packages
