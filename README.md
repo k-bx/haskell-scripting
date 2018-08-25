@@ -25,7 +25,7 @@ are welcome!
 
 TODO:
 
-- [ ] prerequisites (install `stack`, run `stack setup`)
+- [x] prerequisites (install `stack`, run `stack setup`)
 - [ ] simplest `stack script`. mention this only works for `stackage`
   packages
 - [ ] `stack ghci` into the script
