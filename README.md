@@ -1,5 +1,7 @@
 # Scripting in Haskell
 
+See the latest docs at https://haskell-scripting.readthedocs.io/
+
 TODO:
 
 - [ ] link readthedocs
