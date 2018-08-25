@@ -24,8 +24,8 @@ Prerequisites
 =============
 
 - install the `stack
-  <https://docs.haskellstack.org/en/stable/README/>` tool
-- run ``stack setup setup`` to install GHC
+  <https://docs.haskellstack.org/en/stable/README/>`_ tool
+- run ``stack setup`` to install GHC
 
 .. toctree::
    :maxdepth: 2

@@ -21,14 +21,14 @@ You can **compile your script** to get an executable like this:
     hello, scripting!
 
 With a ``stack script`` shown above, you can use whatever packages are
-present in `a snapshot <https://www.stackage.org/lts-12.7>` without
+present in `a snapshot <https://www.stackage.org/lts-12.7>`_ without
 listing them out. For example:
-`simple_with_dep.hs <simple_with_dep.hs>`:
+`simple_with_dep.hs <simple_with_dep.hs>`_:
 
 .. include:: simple_with_dep.hs
    :code: haskell
 
-If you want to use a non-snapshot dependency, you can use a ``stack runghc`` (or ``stack ghc``) command with dependency packages being listed in a ``--package`` argument: `simple_stdin_stdout_nonsnapshot_dep.hs <simple_stdin_stdout_nonsnapshot_dep.hs>`:
+If you want to use a non-snapshot dependency, you can use a ``stack runghc`` (or ``stack ghc``) command with dependency packages being listed in a ``--package`` argument: `simple_stdin_stdout_nonsnapshot_dep.hs <simple_stdin_stdout_nonsnapshot_dep.hs>`_:
 
 .. include:: simple_stdin_stdout_nonsnapshot_dep.hs
    :code: haskell
