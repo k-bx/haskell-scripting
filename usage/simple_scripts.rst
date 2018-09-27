@@ -8,12 +8,12 @@ Simplest script in haskell looks like this:
    :code: haskell
 
 Just mark this file as executable (via ``chmod +x
-./simple_stdin_stdout.hs``) and launch as usual:
+./simple_stdin_stdout.hs``) and launch as usual::
 
     $ ./simple_stdin_stdout.hs
     hello, scripting!
 
-You can **compile your script** to get an executable like this:
+You can **compile your script** to get an executable like this::
 
     $ stack ghc --resolver=lts-12.7 ./simple_stdin_stdout.hs
     Linking simple_stdin_stdout ...
