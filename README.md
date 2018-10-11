@@ -46,3 +46,4 @@ TODO:
 - [ ] automatically build and deploy via some CIs (Docker (including macOS), Travis, check out others)
 - [ ] link https://haskell-lang.org/tutorial/stack-script
 - [ ] use custom snapshots with scripts https://stackoverflow.com/questions/52707671/is-it-possible-to-specify-a-stack-yaml-file-for-a-haskell-script/52713909#52713909
+- [ ] https://www.ahri.net/practical-haskell-programs-from-scratch/
